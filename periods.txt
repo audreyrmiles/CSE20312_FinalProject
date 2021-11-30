@@ -1,0 +1,4 @@
+this is a sample file that ends in a period.
+it also has a second line.
+hi gabby.
+hi kara.
